@@ -1,5 +1,5 @@
 User=Dan
 email=dukf-dan@yandex.ru
 Login=DukfMD.
-Age=?
+Age=25
 Add Line
