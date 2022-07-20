@@ -1,3 +1,3 @@
 User=Dan
 email=dukf-dan@yandex.ru
-Login=DukfMD
+Login=DukfMD.
